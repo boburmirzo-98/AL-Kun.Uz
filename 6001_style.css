@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.main{
+    width: 100%;
+    padding: 0 70px;
+    
+}
+.header1 {
+    list-style-type: none;
+    display: flex;
+}
+.header1 img{
+    width: 100px;
+    float: left;
+}
+.header1 a{
+    text-decoration: none;
+    /* font-size: 18px; */
+    padding: 15px;
+    display: flex;
+    float: left;
+}
+.header2{
+    list-style-type: none;
+    display: flex;
+    width: 1380px;
+    background-color: #e7e6e6;
+}
+.header2 li a{
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+    border-right: 1px solid #999;
+}
+.content{
+    padding: 15px 0;
+}
+/* .main_article{
+    background-color: #ebebeb;
+    width: 75%;
+    height: 410px;
+} */
+.main_article img{
+    width: 600px;
+    float: left;
+}
+.article{
+    float: left;
+    width: 450px;
+    background-color: #ececec;
+    height: 408px;
+}
+.article p{
+    float: left;
+    /* width: 430px; */
+    padding: 15px 25px;
+    font-size: 20px;
+}
+.article h1{
+    padding: 20px;
+    float: left;
+}
+.right{
+    float: left;
+    text-align: center;
+    padding: 10px;
+    width: 300px;
+}
+.right p {
+    padding-bottom: 40px;
+    padding-top: 20px;
+    border-bottom: 1px solid #999;
+}
+.right p a{
+    text-decoration: none;
+}
+.little{
+    padding-top: 15px;
+}
+.little1 img{
+    width: 200px;
+    float: left;
+}
+.little1 h3{
+    float: left;
+    width: 300px;
+    padding: 15px;
+    border-bottom: 1px solid #999;
+}
+.little1 a{
+    text-decoration: none;
+}
+.little2{
+    padding-top: 15px;
+}
+.little21 img{
+    width: 200px;
+    float: left;
+}
+.little21 h3{
+    float: left;
+    width: 300px;
+    padding: 15px;
+    border-bottom: 1px solid #999;
+}
+
+.little2 a{
+    text-decoration: none;
+}
+.telegram_img{
+    padding-top: 20px;
+}
+.youtube h2{
+    width: 1380px;
+    text-align: center;
+    font-size: 35px;
+    color: #555;
+    text-shadow: 5px 5px 5px #999;
+}
+.youtube iframe{
+    width: 450px;
+    height: 400px;
+   
+}
+.footer{
+    height: 100px;
+    width: 1380px;
+}
+.footer p{
+    background-color: rgb(2, 2, 87);
+    color: #fff;
+    padding: 35px;
+}
+.webdevoloper{
+    width: 90%;
+    height: 35px;
+}
+.web{
+    width: 1380px;
+    background-color: #555;
+}
+.web p{
+    color: #fff;
+    text-align: center;
+    padding: 25px 0px;
+}
+.clear{
+    clear: both;
+}
